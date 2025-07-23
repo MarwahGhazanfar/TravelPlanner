@@ -27,22 +27,6 @@ This version includes:
 
 ---
 
-## Sample Output 🎯
-
-Welcome to Marwah's Travel Itinerary Planner
-
-Enter the name of the city you want to plan travel for: Paris
-
-Fetching live weather forecast for Paris...
-
-+------------------+-----------------------------+
-| City             | Paris                       |
-| Weather          | Clouds                      |
-| Temperature (°C) | 22.3                        |
-| Humidity (%)     | 68                          |
-| Wind Speed (m/s) | 5.1                         |
-+------------------+-----------------------------+
-
 Technologies Used 🛠️
 
 Python 3.11
